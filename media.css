@@ -1,0 +1,321 @@
+/* media query started here */
+@media (min-width:1400px) {
+    .fourth-left{
+        padding: 105px 100px;
+        }
+    }
+    @media (min-width:1200px) and (max-width:1400px){
+        .fourth-left{
+            width: 50%;
+            padding: 85px 0px 0px 70px;
+        }
+        .fourth-left h1{
+            font-size: 48px;
+        }
+        .fourth-left p{
+            font-size:22px;
+        }
+        }
+    
+    @media (min-width:992px) and (max-width:1200px){
+        .section-first h1{
+            font-size: 70px;
+        }
+        .section-first-items{
+            width: 100%;
+            padding-top: 35px;
+        }
+        .section-first-img{
+            width: 100%;;
+        }
+        .section-second-items{
+            width: 60%;;
+            line-height: 23px;
+        }
+        .section-second-img{
+            width: 40%;;
+        }
+        .section-second h1{
+            font-size: 45px;
+        }
+        .section-second p{
+            font-size: 15px;
+            line-height: 23px;
+        }
+        .section-left{
+            width: 45%;
+        }
+        .section-left h2{
+            font-size: 30px;
+        } 
+        .section-left p{
+            font-size: 18px;
+        }
+        .section-mid{
+            width: 45%;
+        }
+        .section-mid h2{
+            font-size: 30px;
+        }
+        .section-mid p{
+            font-size: 18px;
+        }
+        .section-right{
+            width: 45%;
+            /* text-align: center; */
+            padding-top: 30px;
+        }
+        .section-right h2{
+            font-size: 30px;
+        }
+        .section-right p{
+            font-size: 18px;
+        }
+        
+        .section-third {
+            padding: 0 75px;
+        }
+        .fourth-left{
+            width: 50%;
+            padding: 80px 0px 0px 66px;
+        }
+        .fourth-left h1{
+            font-size: 38px;
+        }
+        .fourth-left p{
+            font-size: 16px;
+        }
+        .fourth-right{
+            width: 50%;
+        }
+    }
+    @media (min-width:768px) and (max-width:992px){
+        .section-first h1{
+            font-size: 60px;
+        }
+        .section-first p{
+            font-size: 29px;
+        }
+        .section-left{
+            width: 44.5%;
+        }
+        .section-left p{
+            font-size: 15px;
+        }
+        .section-mid{
+            width: 44.5%;
+        }
+        .section-mid p{
+            font-size: 15px;
+        }
+        .section-right{
+            width: 44.5%;
+            padding-top: 30px;
+        }
+        .section-right h2{
+            font-size: 30px;
+        }
+        .section-right p{
+            font-size: 15px;
+        }
+        .section-second-items{
+            width: 100%;
+        }
+        .section-second-img{
+            width: 100%;;
+        }
+        .section-second h1{
+            font-size: 48px;
+        }
+        .section-second p{
+            font-size: 19px;
+            line-height: 29px;
+        }
+        .section-third {
+            padding: 0 81px;
+        }
+        .fourth-left{
+            width: 100%;
+            padding: 43px 134px;
+        }
+        .fourth-left h1{
+            font-size: 45px;
+        }
+        .fourth-left p{
+            font-size: 18px;
+        }
+        .fourth-right{
+            width: 100%;
+        }
+    }
+    @media (min-width:576px) and (max-width:768px){
+        .navbar{
+            padding-top: 28px;
+            padding-left: 25px;
+        }
+        .section-second-items{
+            width: 100%;;
+            padding: 16px 6px;
+        }
+        .section-second-img{
+            width: 100%;;
+        }
+        .section-second h1{
+            font-size: 36px;
+        }
+        .section-second p{
+            font-size: 14px;
+            line-height: 20px;
+        }
+        .fourth-left{
+            width: 100%;
+            padding: 38px 0px 38px 75px;
+        }
+        .fourth-left h1{
+            font-size: 36px;
+        }
+        .fourth-left p{
+            font-size: 15px;
+        }
+        .fourth-right{
+            width: 100%;
+        }
+        .section-first h1 {
+            font-size: 55px;
+        }
+        .section-left{
+            width: 100%;
+        }
+        .section-mid{
+            width: 100%;
+            padding: 35px 0px;
+        }
+        .section-right{
+            width: 100%;
+        }
+        .section-third h2{
+            font-size: 35px;
+        }
+        .section-third{
+            padding: 0 95px;
+        }
+        .section-third p{
+            font-size: 21px;
+            line-height:25px;
+        }
+        .btn{
+            width: 72%;
+            float: none;
+            margin: 33px 83px 0px;
+        }
+        .footer-img{
+            padding: 20px 0;
+        }
+        .footer-heading{
+            font-size: 16px;
+        }
+        hr{
+            margin-top: 37px;
+        }
+    }
+    @media (max-width:576px){
+        .navbar{
+            padding: 10px 0px 10px 13px;
+        }
+        .navigation-bar {
+            padding: 0 0;
+        }
+        .logo-name{
+            padding-top: 22px;
+            padding-left: 22px;
+        }
+        .navbar li {
+            padding: 0px 14px;
+        }
+        .section-first h1{
+            font-size: 35px;
+        }
+        .section-first p{
+            font-size: 16px;
+        }
+        .section-first{
+            padding: 0 0;
+        }
+        .section-first-img{
+            padding: 33px 19px 0px 19px;
+        }
+        .section-second-items{
+            width: 100%;;
+            padding: 16px 6px;
+        }
+        .section-second{
+            margin: 30px 19px 30px 19px;
+        }
+        .section-second-img{
+            width: 100%;;
+        }
+        .section-second h1{
+            font-size: 22px;
+        }
+        .section-second p{
+            font-size: 11px;
+            line-height: 15px;
+            padding: 0 0;
+        }
+        .section-fourth{
+            padding: 0px 16px 0px 16px;
+        }
+        .fourth-left{
+            width: 100%;
+            padding: 38px 0px 38px 26px;
+        }
+        .fourth-left h1{
+            font-size: 36px;
+        }
+        .fourth-left p{
+            font-size: 15px;
+            line-height: 20px;
+        }
+        .fourth-right{
+            width: 100%;
+        }
+        
+        .section-left{
+            width: 100%;
+        }
+        .section-mid{
+            width: 100%;
+            padding: 35px 0px;
+        }
+        .section-right{
+            width: 100%;
+        }
+        .section-third h2{
+            font-size: 30px;
+        }
+        .section-third{
+            padding: 4px 19px 4px 19px;
+        }
+        .section-third p{
+            font-size: 18px;
+            line-height:23px;
+        }
+        .btn{
+            width: 90%;
+            float: none;
+            margin: 26px 0px 0px 16px;
+        }
+        .footer-img{
+            padding: 20px 0;
+        }
+        .footer-heading{
+            font-size: 13px;
+        }
+        hr{
+            margin-top: 37px;
+        }
+        footer{
+            padding: 20px 0px 0px 16px;
+        }
+    }
+    
